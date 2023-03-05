@@ -99,11 +99,12 @@ main {
    
 }
 
-.task-list h2 {
+ h2 {
 	font-size: 1.5rem;
 	font-weight: 300;
 	color: var(--grey);
-	margin-bottom: 1rem;
+	margin-bottom: 0rem;
+    margin-top: 1rem;
    
 }
 .task{
@@ -112,7 +113,7 @@ main {
 	background-color: var(--darkgreen);
 	padding: 1rem;
 	border-radius: 1rem;
-	margin-bottom: 1rem;
+	margin-bottom: 10px;
  
 }
 .task .content{
