@@ -61,6 +61,7 @@ const Header = () => {
         />
         <input type="submit" className="new-task-submit" value="Add Task" />
       </form>
+      <h2>Tasks</h2>
       {todos.map((newtodo, index) => (
         <Main
           newtodo={newtodo}
