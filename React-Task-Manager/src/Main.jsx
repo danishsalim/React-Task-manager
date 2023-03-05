@@ -23,7 +23,7 @@ const Main = (prop) => {
     <>
       <main>
         <section className="task-list">
-          <h2>Tasks</h2>
+         
           <div className="task">
             <div className="content">
               <input
