@@ -1,7 +1,7 @@
 {
-  "name": "citr-v8-project",
-  "version": "8.0.0",
-  "description": "Complete Intro to React v8 project",
+  "name": "task-management-project",
+  "version": "0.0.1",
+  "description": "Manage day-to-day task by simple steps",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -11,7 +11,7 @@
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
   },
   "keywords": [],
-  "author": "Brian Holt",
+  "author": "Md Danish",
   "license": "ISC",
   "devDependencies": {
     "@vitejs/plugin-react": "2.1.0",
